@@ -1,1 +1,1 @@
-Hello this is GIT version 1 test
+Hello this is GIT version 2 test
